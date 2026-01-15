@@ -23,13 +23,13 @@ repository               : #"Mucha-moment/Mucha-moment.github.io"
 author:
   # Biographic information
   name             : "&emsp;Chenxu Ni"
-  avatar           : "profile.png"
+  avatar           : "profilencx.png"
   pronouns         : # example: "she/her"  
-  bio              : "&emsp;M.A. student"
+  bio              : "&emsp;PH.D"
   location         : "Beijing, China"
-  employer         : "Renmin University of China"
+  employer         : "UCASS"
   uri              : #"https://www.manchester.ac.uk/"
-  email            : "congzhenglong@ruc.edu.cn"
+  email            : "nichenxu@ucass.edu.cn"
 
   # Academic websites
   academia         : # URL
